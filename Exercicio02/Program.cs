@@ -6,8 +6,11 @@
         // V = π . r² . h
         static void Main(string[] args)
         {
-            double raio = 3.1;
-            double altura = 10;
+            Console.Write("Digite o raio do cilindro: ");
+            double raio = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Digite a altura do cilindro: ");
+            double altura = Convert.ToDouble(Console.ReadLine());
 
             double volume = Math.PI * Math.Pow(raio, 2) * altura;
 
