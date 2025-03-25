@@ -6,7 +6,7 @@ Implementação Completa da Lista de Exercícios de Lógica de Programação incluindo
 
 ## Exercícios
 
-Entrada, Processamento e Saída de Dados
+**Entrada, Processamento e Saída de Dados**
 
 1. Crie um programa para calcular o volume de uma caixa retangular
 2. Crie um programa para calcular o volume de um Cilindro
@@ -53,7 +53,28 @@ peso e a altura de um adulto e mostre sua condição de acordo com a listagem abai
 17. Faça um algoritmo que leia dois valores inteiros A e B, se os valores forem iguais deverá se somar os dois, caso
 contrário multiplique A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado para uma
 variável C e mostrar seu conteúdo na tela.
-	1. 
+
+**Estruturas de Repetição**
+
+18. Escrever um algoritmo que gera e escreve os números ímpares entre 100 e 200.
+19. Desenvolver um algoritmo que efetue a soma de todos os números ímpares que são múltiplos de três e que se
+encontram no conjunto dos números de 1 até 500.
+20. Escrever um algoritmo que leia um valor para uma variável N de 1 a 10 e calcule a tabuada de N. Mostre a
+tabuada na forma:
+	- 0 x N = 0,
+	- 1 x N = 1N,
+	- 2 x N = 2N,
+	- ...
+	- 10 x N = 10N.
+21. Escreva um algoritmo que leia um valor inicial A e imprima a sequência de valores do cálculo de A! e o seu
+resultado.
+	a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120
+	b. Pesquise sobre “fatorial”
+22. Escreva um programa que leia um número e imprima a sequência de Fibonacci até esse número.
+23. Escreva um programa que imprima os números de 1 a 100 em ordem crescente, substituindo os números
+múltiplos de 3 pela palavra &quot;Fizz&quot; e os múltiplos de 5 pela palavra &quot;Buzz&quot;. Para números que são múltiplos de
+ambos, use &quot;FizzBuzz&quot;.
+
 ## Tecnologias
 
 [![Tecnologias](https://skillicons.dev/icons?i=git,github,cs,dotnet,visualstudio)](https://skillicons.dev)
